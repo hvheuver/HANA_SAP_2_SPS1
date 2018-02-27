@@ -1,0 +1,27 @@
+{
+	"name": "hana",
+	"description": "",
+	"i18n": "hana/i18n/i18n",
+	"requires": {
+		"services": [
+
+		]
+	},
+	"provides": {
+		"services": {
+
+		},
+
+		"interfaces": {
+
+		}
+	},
+	"configures": {
+		"services": {
+
+		}
+	},
+	"subscribes": {
+
+	}
+}
